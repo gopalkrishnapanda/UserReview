@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    height: 400px;
+    width:450px;
+    background-color: aquamarine;
+    margin:100px 400px;
+}
+.pic{
+    /* background-color: black; */
+    height: 80px;
+    width: 80px;
+    margin : 10px 267px 7px 182px;
+    border-radius: 42px;
+}
+
+.about{
+    /* background-color: yellow; */
+    height: 200px;
+    width: 400px;
+    margin: -15px 117px 10px 17px;
+}
+#review{
+    color: black;
+}
+.toggle{
+    margin: auto;
+    padding: 2px 0px 4px 211px;
+    /* background-color: blue; */
+}
+.random{
+    /* background-color: brown; */
+    padding: 0px 0px 0px 206px;
+}
